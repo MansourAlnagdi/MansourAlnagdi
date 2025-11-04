@@ -69,8 +69,6 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
 - Email:mansouralnagdi@gmail.com
 
 ---
-### 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/MansourAlnagdi/MansourAlnagdi/main/dist/snake.svg)
 
 
 <p align="center"><b>Code. Improve. Repeat. 🚀</b></p>
