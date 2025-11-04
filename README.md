@@ -64,9 +64,18 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/mansour-alnagdi-96548221a  
-- Facebook: https://www.facebook.com/share/173Uz6t6V1  
-- Email:mansouralnagdi@gmail.com
+### 🔗 Contact & Social
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mansour-alnagdi-96548221a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mansouralnagdi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
