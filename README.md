@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mansour Alnagdi</h1>
+<h1 align="center">Hi, I'm Mansour Alnagdi</h1>
 <h3 align="center">Back-End Developer (Node.js / MongoDB)</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-</p>
+
 
 
 <p align="center">
