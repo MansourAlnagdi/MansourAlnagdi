@@ -32,7 +32,7 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
 | 🎓 Smart Student Tracking System | Live GPS tracking using Arduino + Node.js + Flutter | ✅ Completed |
-| 🏦 Bank System | Account system (balance, deposit, withdraw, history) | ✅ Completed | Repo uploading soon |
+| 🏦 Bank System | Account system (balance, deposit, withdraw, history) | ✅ Completed | 
 
 
 > More real-world backend projects coming soon 👨‍💻🔥
