@@ -1,46 +1,60 @@
-### 👋 Hi, I'm Mansour Alnagdi  
+<h1 align="center">Hi 👋, I'm Mansour Alnagdi</h1>
+<h3 align="center">Back-End Developer (Node.js / MongoDB)</h3>
 
-🚀 **Back-End Developer | Node.js & MongoDB Enthusiast**
-
-I build backend systems, REST APIs, authentication modules, and real-world applications.  
-Always learning and practicing clean backend architecture 👨‍💻🔥
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** JavaScript, Python  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Security:** JWT, Bcrypt, Validation (JOI)  
-- **Tools:** Git, GitHub, Postman, Thunder Client  
+<p align="center">
+I build secure backend systems, REST APIs, and real-world applications.<br>
+Focused on Node.js, Express, MongoDB, Authentication & system architecture.
+</p>
 
 ---
 
-### 📌 Projects
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🎓 Smart Student Tracking App | Live GPS student tracking system using Arduino, Node.js & Flutter | Completed |
-| 🏦 Bank System App | Bank system with accounts, balance, and transactions | Completed |
+## 🚀 Tech Stack
 
+**Languages:**  
+`JavaScript` `Python`
 
-> Working on more real-world backend projects… 🚀  
+**Backend:**  
+`Node.js` `Express.js` `REST APIs`
 
----
+**Database:**  
+`MongoDB` `Mongoose`
 
-### 📊 GitHub Stats
+**Security:**  
+`JWT` `Bcrypt` `Input Validation (JOI)`
 
-![Mansour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MansourAlnagdi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MansourAlnagdi&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mansour-alnagdi-96548221a  
-- ⚡ Facebook: https://www.facebook.com/share/173Uz6t6V1  
-- ✉️ Email: mansouralnagdi@gmail.com
+**Tools:**  
+`Git` `GitHub` `Postman` `Thunder Client`
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+## 📂 Featured Projects
+
+| Project | Description | Status | Link |
+|--------|-------------|--------|------|
+| 🎓 Smart Student Tracking System | Live GPS tracking using Arduino + Node.js + Flutter | ✅ Completed |
+| 🏦 Bank System | Account system (balance, deposit, withdraw, history) | ✅ Completed | Repo uploading soon |
+
+
+> More real-world backend projects coming soon 👨‍💻🔥
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MansourAlnagdi&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansourAlnagdi&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mansour-alnagdi-96548221a  
+- Facebook: https://www.facebook.com/share/173Uz6t6V1  
+- Email:mansouralnagdi@gmail.com
+
+---
+
+<p align="center"><b>Code. Improve. Repeat. 🚀</b></p>
+
