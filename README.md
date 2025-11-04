@@ -20,7 +20,7 @@ Always learning and practicing clean backend architecture 👨‍💻🔥
 ### 📌 Projects
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎓 Smart Student Tracking App | Live GPS student tracking system using Arduino, Node.js & Flutter | In progress |
+| 🎓 Smart Student Tracking App | Live GPS student tracking system using Arduino, Node.js & Flutter | Completed |
 | 🏦 Bank System App | Bank system with accounts, balance, and transactions | Completed |
 
 
