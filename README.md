@@ -46,7 +46,7 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
 | 🎓 Smart Student Tracking System | Live GPS tracking using Arduino + Node.js + Flutter | ✅ Completed |
-| 🏦 Bank System | Account system (balance, deposit, withdraw, history) | ✅ Completed | 
+
 
 
 > More real-world backend projects coming soon 👨‍💻🔥
@@ -67,7 +67,7 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
 ### 🔗 Contact & Social
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mansour-alnagdi-96548221a" target="_blank">
+  <a href="https://www.linkedin.com/in/mansourdev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
