@@ -40,17 +40,6 @@ Focused on Node.js, Express, MongoDB, Authentication & system architecture.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-
-## 📂 Featured Projects
-
-| Project | Description | Status | Link |
-|--------|-------------|--------|------|
-| 🎓 Smart Student Tracking System | Live GPS tracking using Arduino + Node.js + Flutter | ✅ Completed |
-
-
-
-> More real-world backend projects coming soon 👨‍💻🔥
-
 ---
 
 ## 📊 GitHub Analytics
